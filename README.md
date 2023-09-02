@@ -1,2 +1,1 @@
-# tindog
-to show love for dogs.
+TinDog Starting Files
